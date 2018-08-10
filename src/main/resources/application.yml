@@ -10,8 +10,8 @@ spring:
         git:
           uri: https://github.com/freeChildren/kubbi-config-repertory.git
           search-paths: /config-repo
-          username:  15915787046@139.com
-          password:  KeGaoFei@2013
+          username:  
+          password:  
           
 eureka:
   client:
